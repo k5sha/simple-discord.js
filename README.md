@@ -1,6 +1,11 @@
 # Simple-discord.js
 
 ____This is a template for writing bots on Discord.js____
+## Sections
+- [Instruction](#Instruction)
+- [Designations](#Designations)
+- [How to get Token](#Token)
+
 
 ## Instruction
 
@@ -22,5 +27,23 @@ For instructions on how to get a token, [click here](#Token)
 
 ## Token
 
+#### To create a bot, you need a Token, which can be obtained as follows. Do the following:
+- [Click here](discord.com/developers/applications) and we are taken to the Discord Devolper site.
+- Click on the `New Application button`.  ![New Aplication Button](https://poshbot.readthedocs.io/en/latest/guides/backends/discord-new-application.png)
+- Give it a name. 
+- Click on the `Bot` button and click on the `Add Bot` button.
+- Confirm the action.
+- Click `copy` under the inscription Client secret 
 
 
+  ![Copy](https://cdn.writebots.com/wp-content/uploads/2019/06/discord-bot-token-7.jpg)
+- At now you have a great new token in your clipboard
+
+## Designations
+
+| Name | Info |
+|----------------|---------|
+| Token | Token - is a special set of characters that is used when creating a bot, as well as for authorization without a password and use in special programs.|
+| Prefix | Prefix - is something that you attach before every command.  | 
+
+##### Thanks for reading my article. k5sha
