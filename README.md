@@ -2,8 +2,6 @@
 
 ____This is a template for writing bots on Discord.js____
 
-## Token
-
 ## Instruction
 
 - First you need to download node.js [[download](https://nodejs.org/en/download/)]
@@ -21,6 +19,8 @@ For instructions on how to get a token, [click here](#Token)
 - The last step is open the terminal, go to the directory with the bot using the command ```cd /path_to_bot/``` and launch the bot using the command
  ```node bot.js```
  - All is ready. Good luck :four_leaf_clover:
+
+## Token
 
 
 
