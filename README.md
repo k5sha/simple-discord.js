@@ -20,7 +20,7 @@ ____This is a template for writing bots on Discord.js____
     "prefix": "Write a prefix here"
 }
 ```
-For instructions on how to get a token, [click here](#Token)
+For instructions how to get a token, [click here](#Token)
 - The last step is open the terminal, go to the directory with the bot using the command ```cd /path_to_bot/``` and launch the bot using the command
  ```node bot.js```
  - All is ready. Good luck :four_leaf_clover:
