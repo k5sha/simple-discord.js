@@ -1,4 +1,6 @@
-# Simple-discord.js
+# Simple-discord.js 
+
+# English
 
 ____This is a template for writing bots on Discord.js____
 ## Sections
