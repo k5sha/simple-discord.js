@@ -2,7 +2,6 @@
 
 [English](#Eng)
 
-
 [Русский](#Rus)
 
 # Eng
