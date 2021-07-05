@@ -1,6 +1,6 @@
 # Simple-discord.js 
 
-#### Rus [New Aplication Button](https://github.com/k5sha/simple-discord.js/blob/main/README-RUSmd)
+#### Rus [New Aplication Button](README-RUSmd)
 
 ____This is a template for writing bots on Discord.js____
 ## Sections
