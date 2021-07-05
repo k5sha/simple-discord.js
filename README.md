@@ -1,6 +1,9 @@
 # Simple-discord.js 
 
-#### Rus [New Aplication Button](README-RUSmd)
+[English](#Eng)
+[Русский](#Rus)
+
+# Eng
 
 ____This is a template for writing bots on Discord.js____
 ## Sections
@@ -49,3 +52,28 @@ ____This is a template for writing bots on Discord.js____
 | Prefix | Prefix - is something that you attach before every command.  | 
 
 ##### Thanks for reading my article. k5sha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Rus
