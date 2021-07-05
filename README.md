@@ -1,6 +1,6 @@
 # Simple-discord.js 
 
-#### Russian
+#### Russian [New Aplication Button](https://github.com/k5sha/simple-discord.js/edit/main/README-RUS.md)
 
 ____This is a template for writing bots on Discord.js____
 ## Sections
@@ -9,7 +9,7 @@ ____This is a template for writing bots on Discord.js____
 - [How to get Token](#Token)
 
 
-## Instruction [New Aplication Button](https://github.com/k5sha/simple-discord.js/edit/main/README-RUS.md)
+## Instruction 
 
 - First you need to download node.js [[download](https://nodejs.org/en/download/)]
 - When you downloaded node.js you should download my Sample.js [[download](https://github.com/k5sha/simple-discord.js.git)]
