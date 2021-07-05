@@ -30,7 +30,7 @@ ____This is a template for writing bots on Discord.js____
 ## Token
 
 #### To create a bot, you need a Token, which can be obtained as follows. Do the following:
-- [Click here](discord.com/developers/applications) and we are taken to the Discord Devolper site.
+- [Click here](https://discord.com/developers/applications) and we are taken to the Discord Devolper site.
 - Click on the `New Application button`.  ![New Aplication Button](https://poshbot.readthedocs.io/en/latest/guides/backends/discord-new-application.png)
 - Give it a name. 
 - Click on the `Bot` button and click on the `Add Bot` button.
