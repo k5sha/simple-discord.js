@@ -1,10 +1,9 @@
 # Simple-discord.js 
 
-[English](#Eng)
+[English](#English)
+[Русский](#Русский)
 
-[Русский](#Rus)
-
-# Eng
+# English
 
 ____This is a template for writing bots on Discord.js____
 ## Sections
@@ -55,26 +54,4 @@ ____This is a template for writing bots on Discord.js____
 ##### Thanks for reading my article. k5sha
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Rus
+#Русский
