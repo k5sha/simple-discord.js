@@ -1,6 +1,7 @@
 # Simple-discord.js 
 
-[English](#English)  [Русский](#Russian)
+-[English](#English)
+-[Русский](#Russian)
 # English
 
 ____This is a template for writing bots on Discord.js____
