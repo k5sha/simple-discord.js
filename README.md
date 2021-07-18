@@ -1,7 +1,7 @@
 # Simple-discord.js 
 
 - [English](#English)
-- [Русский](#Russian)
+- [Русский](#Русский)
 # English
 
 ____This is a template for writing bots on Discord.js____
@@ -53,5 +53,5 @@ ____This is a template for writing bots on Discord.js____
 ##### Thanks for reading my article. k5sha
 
 
-# Russian
+# Русский
  В разработке💤
