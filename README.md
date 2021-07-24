@@ -19,7 +19,8 @@ ____This is a template for writing bots on Discord.js____
 - Before using, you must open the terminal and write the command ```cd /path_to_unzip_folder/```
 - After that you must write a next command ```npm i install discord.js```
 - The next step is to fill in the configuration file ```config.json``` 
-```{
+```
+{
     "token": "Write a token here",
     "prefix": "Write a prefix here"
 }
@@ -70,7 +71,8 @@ ____Это шаблон для написания ботов на Discord.js____
 - Перед использованием необходимо открыть терминал и написать команду `` cd / path_to_unzip_folder / ``
 - После этого вы должны написать следующую команду `` npm i install discord.js``
 - Следующим шагом будет заполнение файла конфигурации `` config.json``
-``` {
+``` 
+{
     "token": "Напишите здесь токен",
     "prefix": "Напишите здесь префикс"
 }
